@@ -39,5 +39,11 @@ The project utilizes carefully customized plots, incorporating custom formatting
 * **Bar Charts:** Comparing market volume across different Indian cities.
 * **Scatter Plots:** Isolating property sizes against financial valuations.
 
+### 1. Area vs Price by Not-Pool
+![Scatter Plot](https://github.com/codenoob5311/Sales-Data-Analysis/blob/main/Area-Price.png)
+
+### 2. Location vs Count by Furnished
+![Scatter Plot](https://github.com/codenoob5311/Sales-Data-Analysis/blob/main/Location-Count.png)
+
 ---
 
